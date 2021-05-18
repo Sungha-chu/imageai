@@ -47,25 +47,7 @@ function setup() {
       //facingMode: "user"
 
     //}
-	var constraints = {
 
-    audio: false,
-
-    video: {
-
-      facingMode: {
-
-        exact: "environment"
-
-      }
-
-    }   
-
-    //video: {
-
-      //facingMode: "user"
-
-    //}
 
   };
 
